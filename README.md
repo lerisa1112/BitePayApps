@@ -2,8 +2,8 @@
 
 # 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4a2edb0a-c7dd-4060-b9c5-6a10500e9ad8" width="45" align="center"/>
-  <span style="font-size:28px; font-weight:bold; vertical-align:middle;">
+  <img src="https://github.com/user-attachments/assets/4a2edb0a-c7dd-4060-b9c5-6a10500e9ad8" width="45" />
+  <span style="font-size:22px; font-weight:600; vertical-align:middle;">
     BitePay
   </span>
 </p>
