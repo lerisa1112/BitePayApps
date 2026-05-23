@@ -1,6 +1,11 @@
 
 
-# 🍽️ BitePaya – Multi Vendor Food Ordering System
+# 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cfd1cbd3-9bff-41ba-b52c-a6cde7c13147" width="120"/>
+</p>
+
+<h1 align="center">🍽️ BitePaya – Multi Vendor Food Ordering System</h1>
 
 BitePaya is a full-stack real-time multi-vendor food ordering platform where users can browse vendors, place orders, and track them instantly. Vendors manage menus and orders, while admins control approvals and platform monitoring.
 
@@ -118,6 +123,7 @@ It supports real-time ordering, live status updates, secure authentication, and 
 <img width="1902" height="963" alt="image" src="https://github.com/user-attachments/assets/7682f5a5-6cce-45ed-b2ed-ab955bf59b9d" />
 <img width="1899" height="969" alt="image" src="https://github.com/user-attachments/assets/fc723256-3d60-4e9c-9a6a-f5b00864c548" />
 <img width="1901" height="970" alt="image" src="https://github.com/user-attachments/assets/56303c7e-5862-4eda-adc3-4bf7b03526c7" />
+<img width="1908" height="956" alt="image" src="https://github.com/user-attachments/assets/62fe2e13-f668-497c-814d-a06e67369735" />
 <img width="1913" height="974" alt="image" src="https://github.com/user-attachments/assets/841f233e-cf0d-4705-90bd-60cecd7beb50" />
 
 
