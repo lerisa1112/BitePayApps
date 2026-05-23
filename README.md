@@ -1,10 +1,12 @@
 
 
 # 
-<h1 align="center">
-  <img src="https://github.com/user-attachments/assets/4a2edb0a-c7dd-4060-b9c5-6a10500e9ad8" width="45"/>
-  BitePay
-</h1>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4a2edb0a-c7dd-4060-b9c5-6a10500e9ad8" width="45" align="center"/>
+  <span style="font-size:28px; font-weight:bold; vertical-align:middle;">
+    BitePay
+  </span>
+</p>
 
 
 BitePaya is a full-stack real-time multi-vendor food ordering platform where users can browse vendors, place orders, and track them instantly. Vendors manage menus and orders, while admins control approvals and platform monitoring.
