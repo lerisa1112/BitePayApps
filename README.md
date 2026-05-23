@@ -52,24 +52,7 @@ It supports real-time ordering, live status updates, secure authentication, and 
 
 ---
 
-## 🔔 Real-Time System (Socket.IO)
 
-BitePaya uses **Socket.IO** to sync data instantly:
-
-- New order → instantly sent to vendor
-- Order status update → instantly sent to user
-- Vendor actions → live reflected on admin panel
-- No page refresh required
-
----
-
-## 💳 Payment System
-- Secure payment flow
-- Order confirmation after successful payment
-- Transaction tracking
-- Optional wallet system
-
----
 
 ## 🧠 Tech Stack
 
@@ -80,7 +63,7 @@ BitePaya uses **Socket.IO** to sync data instantly:
 ### 🖥 Backend
 - Node.js (Express API Server)
 - Socket.IO (Real-time communication)
-- Python (Optional microservices / AI processing)
+- Python (Microservices / AI processing)
 
 ### 🗄 Database
 - MongoDB / PostgreSQL
@@ -130,5 +113,11 @@ BitePaya uses **Socket.IO** to sync data instantly:
 <img src="https://github.com/user-attachments/assets/daa6e4f5-8491-4b8f-8fa0-cff3feffbbba" width="180"/>
 <img src="https://github.com/user-attachments/assets/ff905ea1-b59a-4e27-b98a-9b3aa7eba315" width="180"/>
 </div>
+
+### Admin Panel
+<img width="1902" height="963" alt="image" src="https://github.com/user-attachments/assets/7682f5a5-6cce-45ed-b2ed-ab955bf59b9d" />
+<img width="1899" height="969" alt="image" src="https://github.com/user-attachments/assets/fc723256-3d60-4e9c-9a6a-f5b00864c548" />
+<img width="1901" height="970" alt="image" src="https://github.com/user-attachments/assets/56303c7e-5862-4eda-adc3-4bf7b03526c7" />
+<img width="1913" height="974" alt="image" src="https://github.com/user-attachments/assets/841f233e-cf0d-4705-90bd-60cecd7beb50" />
 
 
