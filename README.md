@@ -108,6 +108,7 @@ BitePaya uses **Socket.IO** to sync data instantly:
 <img src="https://github.com/user-attachments/assets/cc301f2a-2839-4036-9359-9d7abae8cabd" width="180"/>
 <img src="https://github.com/user-attachments/assets/e567b652-c656-48c6-b29d-0967a805f4ec" width="180"/>
 <img src="https://github.com/user-attachments/assets/4580c7f6-4bc0-4a68-bbb3-4317526de40f" width="180"/>
+<img src="https://github.com/user-attachments/assets/84f5c748-b0b3-46db-9e90-fdd39690fb66" width="180" />
 <img src="https://github.com/user-attachments/assets/1401dd15-b00a-4f27-95b9-cf748f6c448a" width="180"/>
 <img src="https://github.com/user-attachments/assets/8754b7d7-4734-4f4e-b3b9-a5796f1fcbce" width="180"/>
 <img src="https://github.com/user-attachments/assets/ffff946f-5419-4f9b-b500-72f6d150b242" width="180"/>
@@ -121,8 +122,10 @@ BitePaya uses **Socket.IO** to sync data instantly:
 <img src="https://github.com/user-attachments/assets/5d797587-6bb8-4647-a90c-d571cb31cc39" width="180"/>
 <img src="https://github.com/user-attachments/assets/06c18ddf-fa54-4b34-b3dd-d5a35fee7fee" width="180"/>
 <img src="https://github.com/user-attachments/assets/7d4393f6-e94f-4f1b-9e29-dca05c374f05" width="180"/>
+<img src="https://github.com/user-attachments/assets/53d1ed7a-44c3-4c81-a83d-c030ff588fef" width="180" />
 <img src="https://github.com/user-attachments/assets/389b0d2a-21db-4891-98e4-85ec903c46eb" width="180"/>
 <img src="https://github.com/user-attachments/assets/ec90568b-475b-4a94-817e-9ed124c946b8" width="180"/>
+<img src="https://github.com/user-attachments/assets/ff9e1d92-e65c-4bad-bc42-1ddee63222aa" width="180" />
 <img src="https://github.com/user-attachments/assets/41b04ef2-83b6-4567-b7ae-757c3e121a11" width="180"/>
 <img src="https://github.com/user-attachments/assets/daa6e4f5-8491-4b8f-8fa0-cff3feffbbba" width="180"/>
 <img src="https://github.com/user-attachments/assets/ff905ea1-b59a-4e27-b98a-9b3aa7eba315" width="180"/>
