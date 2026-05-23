@@ -2,10 +2,9 @@
 
 # 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4a2edb0a-c7dd-4060-b9c5-6a10500e9ad8" width="70" style="vertical-align: middle;"/>
-  <span style="font-size:28px; font-weight:bold; vertical-align: middle; margin-left:10px;">
-    BitePaya – Multi Vendor Food Ordering System
-  </span>
+  <img src="https://github.com/user-attachments/assets/4a2edb0a-c7dd-4060-b9c5-6a10500e9ad8" width="40"/>
+  <br/>
+  <b style="font-size:24px;">BitePay – Multi Vendor Food Ordering System</b>
 </p>
 
 
