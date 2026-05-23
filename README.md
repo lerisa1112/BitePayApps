@@ -71,9 +71,12 @@ It supports real-time ordering, live status updates, secure authentication, and 
 - Node.js (Express API Server)
 - Socket.IO (Real-time communication)
 - Python (Microservices / AI processing)
+- FastAPI
 
 ### 🗄 Database
-- MongoDB / PostgreSQL
+- MongoDB
+
+### 
 
 ---
 
