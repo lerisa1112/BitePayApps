@@ -3,8 +3,7 @@
 # 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/4a2edb0a-c7dd-4060-b9c5-6a10500e9ad8" width="40"/>
-  <br/>
-  <b style="font-size:24px;">BitePay – Multi Vendor Food Ordering System</b>
+  <b style="font-size:24px; margin-left:10px;">BitePay</b>
 </p>
 
 
