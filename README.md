@@ -111,16 +111,16 @@ It supports real-time ordering, live status updates, secure authentication, and 
 ### Vendor Flow
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/5d797587-6bb8-4647-a90c-d571cb31cc39" width="180"/>
-<img src="https://github.com/user-attachments/assets/06c18ddf-fa54-4b34-b3dd-d5a35fee7fee" width="180"/>
-<img src="https://github.com/user-attachments/assets/7d4393f6-e94f-4f1b-9e29-dca05c374f05" width="180"/>
-<img src="https://github.com/user-attachments/assets/53d1ed7a-44c3-4c81-a83d-c030ff588fef" width="180" />
-<img src="https://github.com/user-attachments/assets/389b0d2a-21db-4891-98e4-85ec903c46eb" width="180"/>
-<img src="https://github.com/user-attachments/assets/ec90568b-475b-4a94-817e-9ed124c946b8" width="180"/>
-<img src="https://github.com/user-attachments/assets/ff9e1d92-e65c-4bad-bc42-1ddee63222aa" width="180" />
+<img  src="https://github.com/user-attachments/assets/d88e967a-be68-4560-bd0a-dcfa7d0b79f9" width="180"/>
+<img  src="https://github.com/user-attachments/assets/9ecbc337-b10e-469b-a087-5aa2fba9e92f" width="180"/>
+<img src="https://github.com/user-attachments/assets/23eec63e-18bf-4b3b-919f-bd9a2119b24e" width="180"/>
+<img src="https://github.com/user-attachments/assets/9175747c-db3f-4997-83f9-d16859ee9aa1" width="180"/>
+<img src="https://github.com/user-attachments/assets/27f0cc01-ec33-48d2-a761-d14e57dd2056" width="180" />
+<img src="https://github.com/user-attachments/assets/75ce12c7-474a-4e65-9349-c8bd5d3e723e" width="180"/>
+<img src="https://github.com/user-attachments/assets/3cebe732-4361-4889-842e-914e671cdf14" width="180" />
 <img src="https://github.com/user-attachments/assets/41b04ef2-83b6-4567-b7ae-757c3e121a11" width="180"/>
-<img src="https://github.com/user-attachments/assets/daa6e4f5-8491-4b8f-8fa0-cff3feffbbba" width="180"/>
-<img src="https://github.com/user-attachments/assets/ff905ea1-b59a-4e27-b98a-9b3aa7eba315" width="180"/>
+<img src="https://github.com/user-attachments/assets/ca5e9699-e6b1-4f40-b4d0-0b0bc72ecc5c" width="180"/>
+<img src="https://github.com/user-attachments/assets/e5147f1a-8672-4458-9746-6a9b2abebd32" width="180"/>
 </div>
 
 ### Admin Panel
