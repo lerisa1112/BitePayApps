@@ -119,8 +119,9 @@ It supports real-time ordering, live status updates, secure authentication, and 
 <img src="https://github.com/user-attachments/assets/9175747c-db3f-4997-83f9-d16859ee9aa1" width="180"/>
 
 <img src="https://github.com/user-attachments/assets/41b04ef2-83b6-4567-b7ae-757c3e121a11" width="180"/>
-<img src="https://github.com/user-attachments/assets/ca5e9699-e6b1-4f40-b4d0-0b0bc72ecc5c" width="180"/>
 <img src="https://github.com/user-attachments/assets/e5147f1a-8672-4458-9746-6a9b2abebd32" width="180"/>
+
+<img src="https://github.com/user-attachments/assets/ca5e9699-e6b1-4f40-b4d0-0b0bc72ecc5c" width="180"/>
 </div>
 
 ### Admin Panel
