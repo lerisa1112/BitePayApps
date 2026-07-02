@@ -97,7 +97,7 @@ It supports real-time ordering, live status updates, secure authentication, and 
 <img src="https://github.com/user-attachments/assets/4e3568bc-618a-4b74-a76e-d595c1955e0a" width="180" />
 <img  src="https://github.com/user-attachments/assets/f7f980c5-27a3-4aa1-b32a-04727706046a" width="180" />
 <img src="https://github.com/user-attachments/assets/c7632b83-f462-472a-b1f7-896c439811cd" width="180" />
-<img  src="https://github.com/user-attachments/assets/bdea204c-4d70-4a71-85c7-ae28f57756e3" width="180"  />
+<img src="https://github.com/user-attachments/assets/c890d72a-fb9e-4ef5-bdce-062f81e34cf1" width="180" />
 <img  src="https://github.com/user-attachments/assets/70f4d633-3d29-4ed7-80be-cc97dc308971" width="180" />
 <img src="https://github.com/user-attachments/assets/84f5c748-b0b3-46db-9e90-fdd39690fb66" width="180" />
 <img src="https://github.com/user-attachments/assets/ba947f23-00a4-4cd4-8e81-17b160ee89e1" width="180" />
