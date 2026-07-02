@@ -111,11 +111,11 @@ It supports real-time ordering, live status updates, secure authentication, and 
 ### Vendor Flow
 
 <div align="center">
-<img  src="https://github.com/user-attachments/assets/d88e967a-be68-4560-bd0a-dcfa7d0b79f9" width="180"/>
-<img  src="https://github.com/user-attachments/assets/9ecbc337-b10e-469b-a087-5aa2fba9e92f" width="180"/>
+<img src="https://github.com/user-attachments/assets/e075d24a-8a18-4a63-939a-5ab612880081" width="180"/>
+<img src="https://github.com/user-attachments/assets/d88e967a-be68-4560-bd0a-dcfa7d0b79f9" width="180"/>
 <img src="https://github.com/user-attachments/assets/23eec63e-18bf-4b3b-919f-bd9a2119b24e" width="180"/>
+<img src="https://github.com/user-attachments/assets/15d303da-50ce-4c56-ab6b-d3b768e78b16" width="180"/>
 <img src="https://github.com/user-attachments/assets/9175747c-db3f-4997-83f9-d16859ee9aa1" width="180"/>
-<img src="https://github.com/user-attachments/assets/27f0cc01-ec33-48d2-a761-d14e57dd2056" width="180" />
 <img src="https://github.com/user-attachments/assets/75ce12c7-474a-4e65-9349-c8bd5d3e723e" width="180"/>
 <img src="https://github.com/user-attachments/assets/3cebe732-4361-4889-842e-914e671cdf14" width="180" />
 <img src="https://github.com/user-attachments/assets/41b04ef2-83b6-4567-b7ae-757c3e121a11" width="180"/>
